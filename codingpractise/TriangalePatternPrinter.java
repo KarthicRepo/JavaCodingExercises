@@ -1,4 +1,4 @@
-package com.selenium.patterns.codingpractise;
+package com.java.learning.codingpractise;
 
 public class TriangalePatternPrinter {
     public static void main(String[] args) {

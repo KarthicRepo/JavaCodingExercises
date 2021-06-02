@@ -1,4 +1,4 @@
-package com.selenium.patterns.codingpractise;
+package com.java.learning.codingpractise;
 
 public class ReverseASentence {
     public static void main(String[] args) {
@@ -20,7 +20,7 @@ public class ReverseASentence {
         StringBuilder sb= new StringBuilder();
         String[] strArr= str.split(" ");
         for(int i=strArr.length-1;i>=0;i--){
-            sb.append(reverseStr(new String(strArr[i]))+" ");
+            sb.append(reverseStr(strArr[i]+" "));
         }
         return sb.toString().trim();
     }

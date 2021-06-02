@@ -1,4 +1,4 @@
-package com.selenium.patterns.codingpractise;
+package com.java.learning.codingpractise;
 
 import java.util.ArrayList;
 import java.util.List;

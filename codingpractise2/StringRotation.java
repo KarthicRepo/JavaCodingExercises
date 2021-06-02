@@ -1,4 +1,4 @@
-package com.selenium.patterns.codingpractise2;
+package com.java.learning.codingpractise2;
 
 public class StringRotation {
     public static void main(String[] args) {
